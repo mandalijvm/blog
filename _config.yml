@@ -29,6 +29,9 @@ target-blank:
 
 header_page_refs: ['now', 'about', 'contact']
 
+gems:
+  - jekyll-paginate
+
 paginate: 5 # Jumlah post per halaman
 paginate_path: "/page:num/"
 
