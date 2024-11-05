@@ -1,5 +1,5 @@
-title: Mandali
-description: Thread Safety Analyzer for Java/Kotlin
+title: Mandali | Blog
+description: Talking about Kotlin and Java
 show_downloads: true
 
 baseurl: "/blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -16,7 +16,7 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: lorepirri
+author: Hangga Aji Sayekti
 image: /thumbnail-jumbo.png
 twitter:
   username: lorepirri
