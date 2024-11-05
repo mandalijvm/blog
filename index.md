@@ -17,16 +17,3 @@ This theme has instead all you need to start today blogging with Jekyll, and no 
 Have a look at the Github page for more information.
 
 You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs. -->
-
-<!-- Pagination -->
-<div class="pagination">
-    {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="prev">Previous</a>
-    {% endif %}
-    
-    <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    
-    {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-    {% endif %}
-</div>
